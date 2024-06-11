@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>Hello, I am Dusty Miller. I am a Detection Analyst at Proofpoint, but I spend most of my work time doing various engineering and operational projects.</p>
+<p>Hello, I am Dusty Miller. I am a Detection Analyst at Proofpoint and enjoy creating detections and writing automation tooling to make mine and other people's jobs easier.</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dustymmiller&show_icons=true&theme=transparent" />
@@ -25,7 +25,16 @@ Here are some ideas to get you started:
 
 ## Professional Journey
 
-I started working in technology on the help desk, moved into security in a Security Operations Center, and from there started to move into programming and operations work. I still contribute detection work, but most of my time is spent now either in engineering or operational work.
+I started working in technology on the help desk, moved into security in a Security Operations Center, and from there started working on automation tooling and detection engineering.
+
+## Skills
+
+- Yara, Suricata, Snort, Sigma and Clam Detection Engineering
+- Python 3 and Golang Development
+- MITRE ATT&CK Framework and how it relates to detections 
+- Splunk and Splunk SOAR with various custom integrations
+- Kubernetes and Docker for containerized tools and infrastructure
+
 
 ## Certifications
 - Certified Kubernetes Administrator
