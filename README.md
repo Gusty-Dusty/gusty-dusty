@@ -38,7 +38,7 @@ I started working in technology on the help desk, moved into security in a Secur
 
 ## Certifications
 - Certified Kubernetes Administrator
-- Splunk Enterprise Security Administrator
+- Splunk Enterprise Security Architect
 - Splunk Phantom Certified Administrator
 
 ## Connect with Me
