@@ -3,7 +3,7 @@
 <p>Hello, I am Dusty Miller. I am a Detection Analyst at Mckesson and enjoy creating detections and writing automation tooling to make mine and other people's jobs easier.</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gusty-dustyr&show_icons=true&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gusty-dusty&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gusty-dusty&layout=compact&langs_count=8&card_width=320&theme=transparent" />
